@@ -17,9 +17,9 @@
 ### 6. Conformité
 - **Adhérence aux Normes** : Le programme respecte les conventions syntaxiques du COBOL. L'adoption de normes modernes de codage et de documentation pourrait cependant être bénéfique.
 
-### Gestion des Nombres Négatifs et Décimaux
-- **Nombres Négatifs** : Le programme ne gère pas explicitement les nombres négatifs, les variables étant limitées à des nombres positifs. 
-- **Nombres Décimaux** : Les nombres décimaux ne sont pas supportés, ce qui limite l'usage du programme à des calculs entiers.
+- Gestion des Nombres Négatifs et Décimaux
+    - **Nombres Négatifs** : Le programme ne gère pas explicitement les nombres négatifs, les variables étant limitées à des nombres positifs. 
+    - **Nombres Décimaux** : Les nombres décimaux ne sont pas supportés, ce qui limite l'usage du programme à des calculs entiers.
 
 ### Recommandations
 - **Gestion des Nombres Négatifs et Décimaux** : 
